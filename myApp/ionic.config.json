@@ -1,0 +1,7 @@
+{
+  "name": "retroceso",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
